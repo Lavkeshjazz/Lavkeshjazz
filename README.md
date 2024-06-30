@@ -51,4 +51,6 @@
     <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lavkeshjazz" alt="lavkeshjazz" /></a> </p>
 
-![snake gif](https://github.com/Lavkeshjazz/Lavkeshjazz/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/Lavkeshjazz/Lavkeshjazz/output/snake.svg" alt="Snake animation" />
+</div>
