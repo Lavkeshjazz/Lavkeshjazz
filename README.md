@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=lavkeshjazz&label=Profile%20views&color=0e75b6&style=flat" alt="lavkeshjazz" />
 </div>
 
-<h1 align="center">Hi There👋, I'm @Lavkeshjazz</h1>
+<h1 align="center">Hi There<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm @Lavkeshjazz</h1>
 <h3 align="left">I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.</h3>
 
 <p align="left">  </p>
